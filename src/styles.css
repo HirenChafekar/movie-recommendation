@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bubbler+One&display=swap");
+
+.App {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Bubbler One", sans-serif;
+  background-color: #7f9ca0;
+}
